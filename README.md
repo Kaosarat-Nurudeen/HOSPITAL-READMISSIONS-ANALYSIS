@@ -1,2 +1,2 @@
 # HOSPITAL-READMISSIONS-ANALYSIS
-This project is to analyze patient demographics, clinical data, and hospital stay metrics. Findings reveal discharge destination and diabetes as strong predictors. Provides actionable insights for hospitals to reduce readmission rates and improve patient outcomes.
+This project aims to analyze patient data to identify key factors contributing to hospital readmission within a 30-day period. By examining various patient demographics, clinical measurements, and hospital stay metrics, the goal is to provide data-driven insights that can help a hospital reduce its readmission rates and improve patient outcomes.
